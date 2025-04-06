@@ -1,12 +1,12 @@
 title: "Robin Schaefer"
-description: "Condensed Matter Theorist"
+description: "Computational Physicist"
 baseurl: ""
 url: "https://robin-schaefer.github.io"
 theme: minima
 
 author:
-  name: "Robin Schaefer"
-  email: "rschaefe@bu.edu"
+  - name: "Robin Schaefer"
+  - email: "rschaefe@bu.edu"
 
 markdown: kramdown
 
