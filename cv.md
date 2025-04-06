@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Here is a brief overview of my academic background. For the full PDF version, [click here](assets/RobinSchaefer_CV.pdf).
+Here is a brief overview of my academic background. For the full PDF version, [here](assets/cv.pdf).
 
 ### Education
 
