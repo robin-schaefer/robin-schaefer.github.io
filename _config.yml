@@ -1,0 +1,16 @@
+title: "Robin Schaefer"
+description: "Condensed Matter Theorist"
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+author:
+  name: "Robin Schaefer"
+  email: "you@example.com"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
