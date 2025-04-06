@@ -4,9 +4,10 @@ baseurl: ""
 url: "https://robin-schaefer.github.io"
 theme: minima
 
-author:
-  - name: "Robin Schaefer"
-  - email: "rschaefe@bu.edu"
+
+social:
+  email: "robin@example.com"
+  github: "yourusername"
 
 markdown: kramdown
 
