@@ -15,8 +15,8 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 - Large-scale algorithmic development
 - Frustrated quantum magnets
-- Open-system dynamics
-- Chaos
+- Non-equilibrium dynamics
+- Computational quantum many-body physics
 
 ### Education
 
