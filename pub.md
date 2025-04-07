@@ -74,7 +74,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2021
 
 - I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
-  *Possible Inversion Symmetry Breaking in the $S=1/2$ Pyrochlore Heisenberg Magnet*<br>
+  *Possible Inversion Symmetry Breaking in the S=1/2 Pyrochlore Heisenberg Magnet*<br>
   [Phys. Rev. Lett. 126, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204)
 
 ### 2020
