@@ -50,7 +50,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [Phys. Rev. B 106, L060411 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060411)
 
 - E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
-  *The case for a math: $U(1)\pi$ Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇*<br>
+  *The case for a math:`$U(1)\pi$` Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇*<br>
   [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
 
 - I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
@@ -58,7 +58,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [Phys. Rev. Lett. 126, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204)
 
 - **R. Schäfer**, I. Hagymási, R. Moessner, and D. J. Luitz  <br>
-  *Pyrochlore math: $S=\frac{1}{2}$ Heisenberg antiferromagnet at finite temperature*<br>
+  *Pyrochlore math:`$S=\frac{1}{2}$` Heisenberg antiferromagnet at finite temperature*<br>
   [Phys. Rev. B 102, 054408 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.054408)
 
 - **R. Schäfer**, G. S. Uhrig, and J. Stolze<br>  
