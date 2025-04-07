@@ -28,10 +28,10 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 ### Distinctions and Scholarships
 
-- **August 2024** — *Thesis award* by the CRC-1143 "Correlated Magnetism: From Frustration to Topology"
-- **June 2024** — **Otto Hahn Medal** awarded by the Max Planck Society for outstanding scientific achievements during the Ph.D.
-- **June 2022** — *Poster award* at the HFM2022 conference in Paris
-- **August 2018** — *Best student of the year* in M.Sc. Physics
+- **August 2024** — **Thesis award** within [CRC-1143](https://tu-dresden.de/mn/physik/sfb1143?set_language=en)
+- **June 2024** — **Otto Hahn Medal** awarded by the [Max Planck Society](https://www.mpg.de/prizes/otto-hahn-medal)
+- **June 2022** — *Poster award* at [HFM2022](https://hfm2022.sciencesconf.org/)
+- **August 2018** — **Best student of the year** at [TU Dortmund University](https://physik.tu-dortmund.de/en/study/foerderung-von-studierenden/awards/best-of-year-prize/)
 - **September 2016** — *Scholarship* funded by the German Academic Exchange Service (DAAD) for the student exchange at KAIST
 - **October 2015** — *Scholarship* funded by the German government and the Alumni club of the Physics Department *PeP et al. e.V.* at TU Dortmund
 - **October 2014** — *Scholarship* funded by the German government and the Alumni club of the Physics Department *PeP et al. e.V.* at TU Dortmund
