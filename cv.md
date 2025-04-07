@@ -30,7 +30,7 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 - **Thesis award** within [CRC-1143](https://tu-dresden.de/mn/physik/sfb1143?set_language=en) (2024)
 - **Otto Hahn Medal** awarded by the [Max Planck Society](https://www.mpg.de/prizes/otto-hahn-medal) (2024)
 - *Poster award* at [HFM2022](https://hfm2022.sciencesconf.org/) (2022)
-- [**Best student of the year** at TU Dortmund University](https://physik.tu-dortmund.de/en/study/foerderung-von-studierenden/awards/best-of-year-prize/) (2018)
+- **Best student of the year** at [TU Dortmund University](https://physik.tu-dortmund.de/en/study/foerderung-von-studierenden/awards/best-of-year-prize/) (2018)
 - *Scholarship* funded by the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/) for the student exchange at [KAIST](https://www.kaist.ac.kr/en/) (2016)
 - *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2015)
 - *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2014)
