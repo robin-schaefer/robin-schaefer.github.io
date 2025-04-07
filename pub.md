@@ -16,7 +16,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2025
 
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
-  *Two-Peak Heat Capacity Accounts for $R\ln(2)$ Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce$_2$Hf$_2$O$_7$*  
+  *Two-Peak Heat Capacity Accounts for R\ln(2) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce₂Hf₂O₇*  
   [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
 
 - **R. Schäfer**, and D. J. Luitz  <br>
