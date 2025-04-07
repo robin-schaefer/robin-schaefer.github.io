@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 permalink: /pub/
 ---
 
@@ -18,9 +18,9 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 - R. Sch\"afer, G. S. Uhrig, and J. Stolze
 
-**Time-crystalline behavior in an engineered spin chain**
+    **Time-crystalline behavior in an engineered spin chain**
 
-[Phys. Rev. B 100, 184301 (2019)]({https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
+    [Phys. Rev. B 100, 184301 (2019)]({https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
 
 
 

@@ -1,13 +1,10 @@
-title: "Robin Schaefer"
+title: "Robin Sch\"afer"
 description: "Computational Physicist"
 baseurl: ""
 url: "https://robin-schaefer.github.io"
 theme: minima
+email: "rschaefe@bu.edu"
 
-
-social:
-  email: "rschaefe@bu.edu"
-  github: "robin-schaefer"
 
 markdown: kramdown
 
