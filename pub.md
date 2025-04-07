@@ -16,9 +16,56 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2019 
 
-- R. Schäfer, G. S. Uhrig, and J. Stolze<br>
-    **Time-crystalline behavior in an engineered spin chain**<br>
-    [Phys. Rev. B 100, 184301 (2019)]({https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
+- **R. Schäfer**, and D. J. Luitz  <br>
+  **DanceQ: High-performance library for number conserving bases**<br>
+  [SciPost Phys. Codebases 48 (2025)](https://scipost.org/SciPostPhysCodeb.48-r1.0)  
+  [DanceQ repository](https://gitlab.com/DanceQ/danceq) and [DanceQ documentation](https://danceq.gitlab.io/danceq/index.html)
+
+- Z. Lu, **R. Schäfer**, J. N. Hallén, C. R. Laumann  <br>
+  **[111]-strained spin ice: Localization of thermodynamically deconfined monopoles**<br>
+  [Phys. Rev. B 110, 184421 (2024)](https://doi.org/10.1103/PhysRevB.110.184421)
+
+- D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
+  **Dipolar spin ice regime proximate to an all-in-all-out Néel ground state in the dipolar-octupolar pyrochlore Ce₂Sn₂O₇**<br>
+  [Phys. Rev. X 14, 011005 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011005)
+
+- J. Beare, E. M. Smith, J. Dudemaine, **R. Schäfer**, *et al.*  <br>
+  **μSR Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇**<br>
+  [Phys. Rev. B 108, 174411 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.174411)
+
+- E. M. Smith, J. Dudemaine, B. Placke, **R. Schäfer**, *et al.*  <br>
+  **Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇**<br>
+  [Phys. Rev. B 108, 054438 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054438)
+
+- **R. Schäfer**, B. Placke, O. Benton, and R. Moessner  <br>
+  **Abundance of hard-hexagon crystals in the quantum pyrochlore antiferromagnet**<br>
+  [Phys. Rev. Lett. 131, 096702 (2023)](https://link.aps.org/doi/10.1103/PhysRevLett.131.096702)
+
+- **R. Schäfer**, J. C. Budich, and D. J. Luitz  <br>
+  **Symmetry protected exceptional points of interacting fermions**<br>
+  [Phys. Rev. Research 4, 033181 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033181)
+
+- I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
+  **Magnetization process and ordering of the $S=1/2$ pyrochlore Heisenberg antiferromagnet in a magnetic field**<br>
+  [Phys. Rev. B 106, L060411 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060411)
+
+- E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
+  **The case for a $U(1)\pi$ Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇**<br>
+  [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
+
+- I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
+  **Possible Inversion Symmetry Breaking in the $S=1/2$ Pyrochlore Heisenberg Magnet**  <br>
+  [Phys. Rev. Lett. 126, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204)
+
+- **R. Schäfer**, I. Hagymási, R. Moessner, and D. J. Luitz  <br>
+  **Pyrochlore $S=\frac{1}{2}$ Heisenberg antiferromagnet at finite temperature**<br>
+  [Phys. Rev. B 102, 054408 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.054408)
+
+- **R. Schäfer**, G. S. Uhrig, and J. Stolze<br>  
+  **Time-crystalline behavior in an engineered spin chain**  <br>
+  [Phys. Rev. B 100, 184301 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
+
+
 
 
 
