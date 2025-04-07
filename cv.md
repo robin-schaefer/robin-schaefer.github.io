@@ -20,10 +20,10 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 ### Education
 
-- **Ph.D. in Physics**, [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/), 2022
-- **M.Sc. in Mathematics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2019
-- **M.Sc. in Physics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2018
-- **Student Exchange**, at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), (2016/17)
+- **Ph.D. in Physics** (2022), [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/)
+- **M.Sc. in Mathematics** (2019), [TU Dortmund University](https://www.tu-dortmund.de/)
+- **M.Sc. in Physics** (2018), [TU Dortmund University](https://www.tu-dortmund.de/)
+- **Student Exchange** (2016/17), at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) 
 
 
 ### Distinctions and Scholarships
