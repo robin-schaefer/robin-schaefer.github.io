@@ -19,20 +19,20 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 ### Education
 
-- **Ph.D. in Physics** (2022), [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/)
-- **M.Sc. in Mathematics** (2019), [TU Dortmund University](https://www.tu-dortmund.de/)
-- **M.Sc. in Physics** (2018), [TU Dortmund University](https://www.tu-dortmund.de/)
-- **Student Exchange** (2016/17), at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) 
+- **Ph.D. in Physics**  at [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/) (2022)
+- **M.Sc. in Mathematics**  at [TU Dortmund University](https://www.tu-dortmund.de/) (2019)
+- **M.Sc. in Physics** at [TU Dortmund University](https://www.tu-dortmund.de/) (2018)
+- **Student Exchange**at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) (2016/17)
 
 
 ### Distinctions and Scholarships
 
-- **August 2024** — **Thesis award** within [CRC-1143](https://tu-dresden.de/mn/physik/sfb1143?set_language=en)
-- **June 2024** — **Otto Hahn Medal** awarded by the [Max Planck Society](https://www.mpg.de/prizes/otto-hahn-medal)
-- **June 2022** — *Poster award* at [HFM2022](https://hfm2022.sciencesconf.org/)
-- **August 2018** — [**Best student of the year** at TU Dortmund University](https://physik.tu-dortmund.de/en/study/foerderung-von-studierenden/awards/best-of-year-prize/)
-- **September 2016** — *Scholarship* funded by the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/) for the student exchange at [KAIST](https://www.kaist.ac.kr/en/) 
+- **Thesis award** within [CRC-1143](https://tu-dresden.de/mn/physik/sfb1143?set_language=en) (2024)
+- **Otto Hahn Medal** awarded by the [Max Planck Society](https://www.mpg.de/prizes/otto-hahn-medal) (2024)
+- *Poster award* at [HFM2022](https://hfm2022.sciencesconf.org/) (2022)
+- [**Best student of the year** at TU Dortmund University](https://physik.tu-dortmund.de/en/study/foerderung-von-studierenden/awards/best-of-year-prize/) (2018)
+- *Scholarship* funded by the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/) for the student exchange at [KAIST](https://www.kaist.ac.kr/en/) (2016)
 
-- **October 2015** — *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/)
-- **October 2014** — *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/)
+- *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2015(
+- *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2014)
 
