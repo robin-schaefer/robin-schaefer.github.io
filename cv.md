@@ -20,8 +20,19 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 ### Education
 
-- **PhD in Physics**, [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/), 2022
-- **MSc in Mathematics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2019
-- **MSc in Physics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2018
+- **Ph.D. in Physics**, [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/), 2022
+- **M.Sc. in Mathematics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2019
+- **M.Sc. in Physics**, [TU Dortmund University](https://www.tu-dortmund.de/), 2018
 - **Student Exchange**, at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), (2016/17)
+
+
+### Distinctions and Scholarships
+
+- **August 2024** — *Thesis award* by the CRC-1143 "Correlated Magnetism: From Frustration to Topology"
+- **June 2024** — **Otto Hahn Medal** awarded by the Max Planck Society for outstanding scientific achievements during the Ph.D.
+- **June 2022** — *Poster award* at the HFM2022 conference in Paris
+- **August 2018** — *Best student of the year* in M.Sc. Physics
+- **September 2016** — *Scholarship* funded by the German Academic Exchange Service (DAAD) for the student exchange at KAIST
+- **October 2015** — *Scholarship* funded by the German government and the Alumni club of the Physics Department *PeP et al. e.V.* at TU Dortmund
+- **October 2014** — *Scholarship* funded by the German government and the Alumni club of the Physics Department *PeP et al. e.V.* at TU Dortmund
 

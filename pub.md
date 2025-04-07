@@ -12,6 +12,11 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 - [ORCiD](https://orcid.org/0000-0001-9728-2371)
 
 
+### Dissertation
+
+**R. Schäfer**  
+*Magnetic frustration in three dimensions*  
+[Dissertation published via TU Dresden (2022)](https://tud.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A82937%2Fmets)
 
 ### 2025
 
