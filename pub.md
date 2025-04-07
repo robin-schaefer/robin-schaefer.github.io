@@ -16,7 +16,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2019 
 
-- R. Sch\"afer, G. S. Uhrig, and J. Stolze<br>
+- R. Schäfer, G. S. Uhrig, and J. Stolze<br>
     **Time-crystalline behavior in an engineered spin chain**<br>
     [Phys. Rev. B 100, 184301 (2019)]({https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
 
