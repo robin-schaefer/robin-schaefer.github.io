@@ -12,14 +12,23 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 - [ORCiD](https://orcid.org/0000-0001-9728-2371)
 
 
-### 2019
 
-### 2019 
+### 2025
+
+- E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
+  *Two-Peak Heat Capacity Accounts for $R\ln(2)$ Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce$_2$Hf$_2$O$_7$*  
+  [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
 
 - **R. Schäfer**, and D. J. Luitz  <br>
   *DanceQ: High-performance library for number conserving bases*<br>
   [SciPost Phys. Codebases 48 (2025)](https://scipost.org/SciPostPhysCodeb.48-r1.0)  
   [DanceQ repository](https://gitlab.com/DanceQ/danceq) and [DanceQ documentation](https://danceq.gitlab.io/danceq/index.html)
+
+### 2024
+
+- E. M. Smith, **R. Schäfer**, *et al.*  <br>
+  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce$_2$Zr$_2$O$_7$: No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
+  [arXiv:2407.07640 (2024) --- PRX accepted](https://arxiv.org/abs/2407.07640)
 
 - Z. Lu, **R. Schäfer**, J. N. Hallén, C. R. Laumann  <br>
   *[111]-strained spin ice: Localization of thermodynamically deconfined monopoles*<br>
@@ -28,6 +37,8 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 - D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
   *Dipolar spin ice regime proximate to an all-in-all-out Néel ground state in the dipolar-octupolar pyrochlore Ce₂Sn₂O₇*<br>
   [Phys. Rev. X 14, 011005 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011005)
+
+### 2023
 
 - J. Beare, E. M. Smith, J. Dudemaine, **R. Schäfer**, *et al.*  <br>
   *μSR Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇*<br>
@@ -41,6 +52,8 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   *Abundance of hard-hexagon crystals in the quantum pyrochlore antiferromagnet*<br>
   [Phys. Rev. Lett. 131, 096702 (2023)](https://link.aps.org/doi/10.1103/PhysRevLett.131.096702)
 
+### 2022
+
 - **R. Schäfer**, J. C. Budich, and D. J. Luitz  <br>
   *Symmetry protected exceptional points of interacting fermions*<br>
   [Phys. Rev. Research 4, 033181 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033181)
@@ -53,21 +66,21 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   *The case for a math:`$U(1)\pi$` Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇*<br>
   [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
 
+### 2021
+
 - I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
   *Possible Inversion Symmetry Breaking in the $S=1/2$ Pyrochlore Heisenberg Magnet*<br>
   [Phys. Rev. Lett. 126, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204)
 
+### 2020
+
 - **R. Schäfer**, I. Hagymási, R. Moessner, and D. J. Luitz  <br>
-  *Pyrochlore math:`$S=\frac{1}{2}$` Heisenberg antiferromagnet at finite temperature*<br>
+  *Pyrochlore math: $S=\frac{1}{2}$ Heisenberg antiferromagnet at finite temperature*<br>
   [Phys. Rev. B 102, 054408 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.054408)
+
+### 2019 
 
 - **R. Schäfer**, G. S. Uhrig, and J. Stolze<br>  
   *Time-crystalline behavior in an engineered spin chain*<br>
   [Phys. Rev. B 100, 184301 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
-
-
-
-
-
-
 
