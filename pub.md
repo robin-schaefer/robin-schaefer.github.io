@@ -24,16 +24,16 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   *Two-Peak Heat Capacity Accounts for R\ln(2) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce₂Hf₂O₇*  
   [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
 
+- E. M. Smith, **R. Schäfer**, *et al.*  <br>
+  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇: No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
+  [Phys. Rev. X 15, 021033 (2025)](https://link.aps.org/doi/10.1103/PhysRevX.15.021033)
+
 - **R. Schäfer**, and D. J. Luitz  <br>
   *DanceQ: High-performance library for number conserving bases*<br>
   [SciPost Phys. Codebases 48 (2025)](https://scipost.org/SciPostPhysCodeb.48-r1.0)  
   [DanceQ repository](https://gitlab.com/DanceQ/danceq) and [DanceQ documentation](https://danceq.gitlab.io/danceq/index.html)
 
 ### 2024
-
-- E. M. Smith, **R. Schäfer**, *et al.*  <br>
-  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇: No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
-  [arXiv:2407.07640 (2024) --- PRX accepted](https://arxiv.org/abs/2407.07640)
 
 - Z. Lu, **R. Schäfer**, J. N. Hallén, C. R. Laumann  <br>
   *[111]-strained spin ice: Localization of thermodynamically deconfined monopoles*<br>
