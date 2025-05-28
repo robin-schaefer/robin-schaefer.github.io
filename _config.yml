@@ -2,7 +2,7 @@ title: "Robin Schaefer"
 description: "Computational Physicist"
 baseurl: ""
 url: "https://robin-schaefer.github.io"
-theme: minima
+#theme: minima
 email: "rschaefe@bu.edu"
 
 head:
