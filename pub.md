@@ -5,9 +5,6 @@ permalink: /pub/
 ---
 
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-$$ a = \sqrt{2} $$
 
 A full PDF of my publications can be found [here](assets/pub.pdf).
 
