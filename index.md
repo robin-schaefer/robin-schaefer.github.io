@@ -3,6 +3,14 @@ layout: home
 #title: Hi
 ---
 
+<!-- _includes/head.html -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+$$ \sqrt{2} $$
+
 
 <div style="text-align: center;">
   <img src="assets/images/profile.jpg" alt="Description" style="width: 300px;" />
