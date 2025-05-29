@@ -3,6 +3,21 @@ layout: home
 #title: Hi
 ---
 
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
+This is an inline math equation: \\( E = mc^2 \\).
+
+This is a display equation:
+
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
 <div>
 
 $$ \sqrt{2} $$

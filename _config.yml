@@ -5,12 +5,14 @@ url: "https://robin-schaefer.github.io"
 theme: minima
 email: "rschaefe@bu.edu"
 
-head:
-  - <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+#head:
+#  - <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 
 
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 plugins:
   - jekyll-feed
