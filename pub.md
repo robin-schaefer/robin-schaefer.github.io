@@ -33,7 +33,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
 
 - E. M. Smith, **R. Schäfer**, *et al.*  <br>
-  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\): No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
+  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\): No Apparent Octupolar Correlations Above \\(T = 0.05 K\\)*  <br>
   [Phys. Rev. X 15, 021033 (2025)](https://link.aps.org/doi/10.1103/PhysRevX.15.021033)
 
 - **R. Schäfer**, and D. J. Luitz  <br>
@@ -72,7 +72,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [Phys. Rev. Research 4, 033181 (2022)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033181)
 
 - I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
-  *Magnetization process and ordering of the S=1/2 pyrochlore Heisenberg antiferromagnet in a magnetic field*<br>
+  *Magnetization process and ordering of the \\(S=1/2\\) pyrochlore Heisenberg antiferromagnet in a magnetic field*<br>
   [Phys. Rev. B 106, L060411 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060411)
 
 - E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
@@ -82,13 +82,13 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2021
 
 - I. Hagymási, **R. Schäfer**, R. Moessner, and D. J. Luitz  <br>
-  *Possible Inversion Symmetry Breaking in the S=1/2 Pyrochlore Heisenberg Magnet*<br>
+  *Possible Inversion Symmetry Breaking in the \\(S=1/2\\) Pyrochlore Heisenberg Magnet*<br>
   [Phys. Rev. Lett. 126, 117204 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.117204)
 
 ### 2020
 
 - **R. Schäfer**, I. Hagymási, R. Moessner, and D. J. Luitz  <br>
-  *Pyrochlore S=1/2 Heisenberg antiferromagnet at finite temperature*<br>
+  *Pyrochlore \\(S=1/2\\) Heisenberg antiferromagnet at finite temperature*<br>
   [Phys. Rev. B 102, 054408 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.054408)
 
 ### 2019 

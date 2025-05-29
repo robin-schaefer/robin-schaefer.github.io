@@ -10,19 +10,6 @@ layout: home
 </script>
 
 
-This is an inline math equation: \\( E = mc^2 \\).
-
-This is a display equation:
-
-$$
-\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$$
-
-<div>
-
-$$ \sqrt{2} $$
-
-</div>
 
 <div style="text-align: center;">
   <img src="assets/images/profile.jpg" alt="Description" style="width: 300px;" />
