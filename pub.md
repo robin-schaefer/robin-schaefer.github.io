@@ -10,6 +10,7 @@ permalink: /pub/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+# $$ \sqrt{2} $$ inline equation
 
 A full PDF of my publications can be found [here](assets/pub.pdf).
 
@@ -28,11 +29,11 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2025
 
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
-  *Two-Peak Heat Capacity Accounts for \\(R\log(2)\\) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce₂Hf₂O₇*  
+  *Two-Peak Heat Capacity Accounts for \\(R\log(2)\\) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Hf\\(_2\\)O\\(_7\\)*  
   [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
 
 - E. M. Smith, **R. Schäfer**, *et al.*  <br>
-  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇: No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
+  *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\): No Apparent Octupolar Correlations Above T = 0.05 K*  <br>
   [Phys. Rev. X 15, 021033 (2025)](https://link.aps.org/doi/10.1103/PhysRevX.15.021033)
 
 - **R. Schäfer**, and D. J. Luitz  <br>
@@ -47,17 +48,17 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [Phys. Rev. B 110, 184421 (2024)](https://doi.org/10.1103/PhysRevB.110.184421)
 
 - D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
-  *Dipolar spin ice regime proximate to an all-in-all-out Néel ground state in the dipolar-octupolar pyrochlore Ce₂Sn₂O₇*<br>
+  *Dipolar spin ice regime proximate to an all-in-all-out Néel ground state in the dipolar-octupolar pyrochlore Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*<br>
   [Phys. Rev. X 14, 011005 (2024)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011005)
 
 ### 2023
 
 - J. Beare, E. M. Smith, J. Dudemaine, **R. Schäfer**, *et al.*  <br>
-  *μSR Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce₂Zr₂O₇*<br>
+  *μSR Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\)*<br>
   [Phys. Rev. B 108, 174411 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.174411)
 
 - E. M. Smith, J. Dudemaine, B. Placke, **R. Schäfer**, *et al.*  <br>
-  *Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇*<br>
+  *Quantum Spin Ice Response to a Magnetic Field in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\)*<br>
   [Phys. Rev. B 108, 054438 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.054438)
 
 - **R. Schäfer**, B. Placke, O. Benton, and R. Moessner  <br>
@@ -75,7 +76,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   [Phys. Rev. B 106, L060411 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.L060411)
 
 - E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
-  *The case for a U(1)π  Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce₂Zr₂O₇*<br>
+  *The case for a U(1)π  Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\)*<br>
   [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
 
 ### 2021
