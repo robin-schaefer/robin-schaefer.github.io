@@ -10,7 +10,6 @@ permalink: /pub/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# $$ \sqrt{2} $$ inline equation
 
 A full PDF of my publications can be found [here](assets/pub.pdf).
 
