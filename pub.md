@@ -27,6 +27,10 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2025
 
+-   D. Vuina, **R. Schäfer**, D. M. Long, A. Chandran
+    *Probing Hilbert space fragmentation using controlled dephasing*
+    [arXiv:2506.13856 (2025)](https://arxiv.org/abs/2506.13856)
+
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
   *Two-Peak Heat Capacity Accounts for \\(R\log(2)\\) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Hf\\(_2\\)O\\(_7\\)*  
   [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
