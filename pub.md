@@ -28,7 +28,9 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2025
 
 - D. Vuina, **R. Schäfer**, D. M. Long, A. Chandran
+
   *Probing Hilbert space fragmentation using controlled dephasing*
+
   [arXiv:2506.13856 (2025)](https://arxiv.org/abs/2506.13856)
 
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
