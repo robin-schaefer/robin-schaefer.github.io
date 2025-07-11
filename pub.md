@@ -28,12 +28,17 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 ### 2025
 
 - H. Kim, **R. Schäfer**, D. M. Long, A. Polkovnikov, A. Chandran
+
   **--- shared first authorship**
+ 
   *Confined and deconfined chaos in classical spin systems*  
+
   [arXiv:2507.07168  (2025)](https://arxiv.org/abs/2507.07168)
 
-- **R. Schäfer**, C. Chamon, C. R. Laumann
+- **R. Schäfer**, C. Chamon, C. R. Laumann  
+ 
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
+
   [arXiv:2507.02035 (2025)](https://arxiv.org/abs/2507.02035)
 
 - D. Vuina, **R. Schäfer**, D. M. Long, A. Chandran  
