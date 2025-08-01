@@ -12,5 +12,11 @@ permalink: /news/
 
 ### Articles
 
-- [Quantum Zeitgeist](https://quantumzeitgeist.com/toric-code-reveals-new-topological-phases-hall-like-states-emerge/), July 2025
+- [Quantum Zeitgeist](https://quantumzeitgeist.com/toric-code-reveals-new-topological-phases-hall-like-states-emerge/) highlights our new [paper](https://arxiv.org/abs/2507.02035), July 2025
+
+- [Best Doctoral Thesis Award (CRC 1143)](https://tu-dresden.de/mn/physik/sfb1143/der-sfb/news/graduiertenkolleg-preisverleihung-beste-promotion-2?set_language=en), August 2024
+
+- [CRC 1143 features our DMRG study on pyrochlore at zero temperature](https://tu-dresden.de/mn/physik/sfb1143/der-sfb/news/forschung-pyrochlor-s-1-2-heisenberg-antiferromagnet-bei-endlicher-temperatur?set_language=en), March 2021
+ 
+- [CRC 1143 features our NLCE study on pyrochlore at finite temperature](https://tu-dresden.de/mn/physik/sfb1143/der-sfb/news/forschung-pyrochlor-s-1-2-heisenberg-antiferromagnet-bei-endlicher-temperatur?set_language=en), September 2020
  
