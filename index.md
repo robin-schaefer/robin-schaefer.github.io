@@ -1,6 +1,5 @@
 ---
 layout: home
-#title: Hi
 ---
 
 <script type="text/javascript"
@@ -26,4 +25,6 @@ My computational efforts have resulted in the development of **DanceQ**, a high-
 ➡️ [CV](cv)
 
 ➡️ [Publications](pub)
+
+➡️ [News](news)
 
