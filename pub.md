@@ -42,7 +42,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
   *Two-Peak Heat Capacity Accounts for \\(R\log(2)\\) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Hf\\(_2\\)O\\(_7\\)*  
-  [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327)
+  [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327) (accepted in PRL --- Editor's Suggestion)
 
 - E. M. Smith, **R. Schäfer**, *et al.*  <br>
   *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\): No Apparent Octupolar Correlations Above \\(T = 0.05 K\\)*  <br>
@@ -90,6 +90,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 - E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
   *The case for a U(1)π  Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\)*<br>
   [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
+  **Featured in [Quantum Science and Technology Collection](https://journals.aps.org/prx/collections/quantum-science-tech)
 
 ### 2021
 
