@@ -89,7 +89,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 - E. Smith, O. Benton, D. Yahne, B. Placke, **R. Schäfer**, *et al.*  <br>
   *The case for a U(1)π  Quantum Spin Liquid Ground State in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\)*<br>
-  [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015)
+  [Phys. Rev. X 12, 021015 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021015) <br>
   **Featured in [Quantum Science and Technology Collection](https://journals.aps.org/prx/collections/quantum-science-tech)**
 
 ### 2021
