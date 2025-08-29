@@ -3,7 +3,7 @@ description: "Computational Physicist"
 baseurl: ""
 url: "https://robin-schaefer.github.io"
 theme: minima
-email: "rschaefe@bu.edu"
+email: "robin.schaefer@helmholtz-berlin.de"
 
 #head:
 #  - <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
