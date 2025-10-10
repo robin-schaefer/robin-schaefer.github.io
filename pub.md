@@ -38,11 +38,11 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 - D. Vuina, **R. Schäfer**, D. M. Long, A. Chandran  
   *Probing Hilbert space fragmentation using controlled dephasing*  
-  [arXiv:2506.13856 (2025)](https://arxiv.org/abs/2506.13856)
+  [Phys. Rev. B 112, 134305 (2025)](https://journals.aps.org/prb/abstract/10.1103/vk42-7ntq)
 
 - E. M. Smith, A. Fitterman, **R. Schäfer**, *et al.*  
   *Two-Peak Heat Capacity Accounts for \\(R\log(2)\\) Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce\\(_2\\)Hf\\(_2\\)O\\(_7\\)*  
-  [arXiv:2501.08327 (2025)](https://arxiv.org/abs/2501.08327) (accepted in PRL --- **Editor's Suggestion**)
+  [Phys. Rev. Lett. 135, 086702 (2025)](https://journals.aps.org/prl/abstract/10.1103/4qxy-l8pg) --- **Editor's Suggestion**
 
 - E. M. Smith, **R. Schäfer**, *et al.*  <br>
   *Single Crystal Diffuse Neutron Scattering Study of the Dipole-Octupole Quantum Spin Ice Candidate Ce\\(_2\\)Zr\\(_2\\)O\\(_7\\): No Apparent Octupolar Correlations Above \\(T = 0.05 K\\)*  <br>
