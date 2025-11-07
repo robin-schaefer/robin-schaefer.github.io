@@ -19,4 +19,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-latex
   - jekyll-katex
+  - jekyll-sitemap
+
 
