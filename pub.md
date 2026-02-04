@@ -25,12 +25,19 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 *Magnetic frustration in three dimensions*  
 [Dissertation published via TU Dresden (2022)](https://tud.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A82937%2Fmets)
 
+### 2026
+
+- **R. Schäfer, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek 
+  *Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice*  
+  [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory Johannes Richter
+
+
 ### 2025
 
 - H. Kim, **R. Schäfer**, D. M. Long, A. Polkovnikov, A. Chandran  
   **--- shared first authorship**  
   *Confined and deconfined chaos in classical spin systems*  
-  [arXiv:2507.07168  (2025)](https://arxiv.org/abs/2507.07168)
+  [arXiv:2507.07168 (2025)](https://arxiv.org/abs/2507.07168)
 
 - **R. Schäfer**, C. Chamon, C. R. Laumann  
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
