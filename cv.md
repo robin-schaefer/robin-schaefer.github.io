@@ -28,7 +28,7 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 
 ### Distinctions and Scholarships
 
-- **Walter Benjamin Fellowship** through the Deutsche Forschungsgemeinschaft
+- **Walter Benjamin Fellowship** through the Deutsche Forschungsgemeinschaft (2025)
 - **Thesis award** within [CRC-1143](https://tu-dresden.de/mn/physik/sfb1143?set_language=en) (2024)
 - **Otto Hahn Medal** awarded by the [Max Planck Society](https://www.mpg.de/prizes/otto-hahn-medal) (2024)
 - *Poster award* at [HFM2022](https://hfm2022.sciencesconf.org/) (2022)
