@@ -27,10 +27,13 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
+- **R. Schäfer**, C. Chamon, C. R. Laumann  
+  *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
+  [Phys. Rev. Lett. 136, 166603 (2026)](https://journals.aps.org/prl/abstract/10.1103/f63q-vqz3)
+
 - **R. Schäfer, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek 
   *Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice*  
   [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory Johannes Richter
-
 
 ### 2025
 
@@ -38,10 +41,6 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   **--- shared first authorship**  
   *Confined and deconfined chaos in classical spin systems*  
   [arXiv:2507.07168 (2025)](https://arxiv.org/abs/2507.07168)
-
-- **R. Schäfer**, C. Chamon, C. R. Laumann  
-  *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
-  [arXiv:2507.02035 (2025)](https://arxiv.org/abs/2507.02035)
 
 - D. Vuina, **R. Schäfer**, D. M. Long, A. Chandran  
   *Probing Hilbert space fragmentation using controlled dephasing*  
