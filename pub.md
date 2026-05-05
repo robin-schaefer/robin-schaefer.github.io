@@ -31,7 +31,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
   [Phys. Rev. Lett. 136, 166603 (2026)](https://journals.aps.org/prl/abstract/10.1103/f63q-vqz3)
 
-- **R. Schäfer, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek 
+- **R. Schäfer**, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek 
   *Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice*  
   [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory Johannes Richter
 
