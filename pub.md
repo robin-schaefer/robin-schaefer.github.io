@@ -27,6 +27,10 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
+- B. Yuan, M. Powell, X. Liu, J. Ni, E. M. Smith, **R. Schäfer** et al. 
+  *Observation of Dipolar Spin-ice-like Correlations in the Quantum Spin Ice Candidate Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*  
+  [arXiv:2601.20766 (2026)](https://arxiv.org/abs/2601.20766)
+
 - **R. Schäfer**, C. Chamon, C. R. Laumann  
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
   [Phys. Rev. Lett. 136, 166603 (2026)](https://journals.aps.org/prl/abstract/10.1103/f63q-vqz3)
