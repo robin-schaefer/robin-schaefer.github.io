@@ -27,6 +27,15 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
+- R. Raman, **R. Schäfer**, A. J. Kollar, A. Chandran 
+  **--- shared first authorship**  
+  *Dissipative Stabilization of Floquet-Engineered Many-Body Order*  
+  [arXiv:2607.16391 (2026)](https://arxiv.org/abs/2607.16391)
+
+- E. M. Smith, M. S. Powell, **R. Schäfer** et al. 
+  *Zero-Field Long Range Order at T ~ 40 mK in the Proximate Quantum Spin Ice Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\) and Phase Diagram for Magnetic Fields Along [1,1,0]*  
+  [arXiv:2607.12274 (2026)](https://arxiv.org/abs/2607.12274)
+
 - B. Yuan, M. Powell, X. Liu, J. Ni, E. M. Smith, **R. Schäfer** et al. 
   *Observation of Dipolar Spin-ice-like Correlations in the Quantum Spin Ice Candidate Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*  
   [arXiv:2601.20766 (2026)](https://arxiv.org/abs/2601.20766)
