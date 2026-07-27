@@ -27,7 +27,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
-- R. Raman, **R. Schäfer**, A. J. Kollar, A. Chandran 
+- R. Raman, **R. Schäfer**, A. J. Kollar, A. Chandran <br>
   **--- shared first authorship**  
   *Dissipative Stabilization of Floquet-Engineered Many-Body Order*  
   [arXiv:2607.16391 (2026)](https://arxiv.org/abs/2607.16391)
@@ -128,4 +128,3 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 - **R. Schäfer**, G. S. Uhrig, and J. Stolze<br>
   *Time-crystalline behavior in an engineered spin chain*<br>
   [Phys. Rev. B 100, 184301 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.184301)
-
