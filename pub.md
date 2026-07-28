@@ -27,6 +27,11 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
+- J. S. Herz, **R. Schäfer**, M. G. Gonzalez, D, J. Luitz
+  *Sign-optimized Quantum Monte Carlo*  
+  [arXiv:2607.24679 (2026)](http://arxiv.org/abs/2607.24679)
+
+
 - R. Raman, **R. Schäfer**, A. J. Kollar, A. Chandran <br>
   **--- shared first authorship**  
   *Dissipative Stabilization of Floquet-Engineered Many-Body Order*  
