@@ -27,7 +27,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
-- J. S. Herz, **R. Schäfer**, M. G. Gonzalez, D, J. Luitz
+- J. S. Herz, **R. Schäfer**, M. G. Gonzalez, D, J. Luitz <br>
   *Sign-optimized Quantum Monte Carlo*  
   [arXiv:2607.24679 (2026)](http://arxiv.org/abs/2607.24679)
 
