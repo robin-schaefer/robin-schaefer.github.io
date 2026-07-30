@@ -37,19 +37,19 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
   *Dissipative Stabilization of Floquet-Engineered Many-Body Order*  
   [arXiv:2607.16391 (2026)](https://arxiv.org/abs/2607.16391)
 
-- E. M. Smith, M. S. Powell, **R. Schäfer** et al. 
+- E. M. Smith, M. S. Powell, **R. Schäfer** et al. <br>
   *Zero-Field Long Range Order at T ~ 40 mK in the Proximate Quantum Spin Ice Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\) and Phase Diagram for Magnetic Fields Along [1,1,0]*  
   [arXiv:2607.12274 (2026)](https://arxiv.org/abs/2607.12274)
 
-- B. Yuan, M. Powell, X. Liu, J. Ni, E. M. Smith, **R. Schäfer** et al. 
+- B. Yuan, M. Powell, X. Liu, J. Ni, E. M. Smith, **R. Schäfer** et al.  <br>
   *Observation of Dipolar Spin-ice-like Correlations in the Quantum Spin Ice Candidate Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*  
   [arXiv:2601.20766 (2026)](https://arxiv.org/abs/2601.20766)
 
-- **R. Schäfer**, C. Chamon, C. R. Laumann  
+- **R. Schäfer**, C. Chamon, C. R. Laumann  <br>
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
   [Phys. Rev. Lett. 136, 166603 (2026)](https://journals.aps.org/prl/abstract/10.1103/f63q-vqz3)
 
-- **R. Schäfer**, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek 
+- **R. Schäfer**, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek  <br>
   *Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice*  
   [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory Johannes Richter
 
