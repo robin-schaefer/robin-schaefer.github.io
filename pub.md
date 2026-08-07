@@ -51,7 +51,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 - **R. Schäfer**, P. Ebert, N. Hassan, J. Reuther, D. Luitz, A. Wietek  <br>
   *Thermodynamics of the Heisenberg antiferromagnet on the maple-leaf lattice*  
-  [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory Johannes Richter
+  [Zeitschrift für Naturforschung A. (zna-2025-0382)](https://doi.org/10.1515/zna-2025-0382) --- special issue in memory of Johannes Richter
 
 ### 2025
 
