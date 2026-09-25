@@ -27,10 +27,13 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
+- A. Sanders, G. Naik, J. Hallén, R. Schäfer <br>
+  *Defect Poisoning of Quantum Spin Ice*  
+  [arXiv:2609.28643 (2026)](https://arxiv.org/abs/2609.28643)
+
 - J. S. Herz, **R. Schäfer**, M. G. Gonzalez, D, J. Luitz <br>
   *Sign-optimized Quantum Monte Carlo*  
   [arXiv:2607.24679 (2026)](http://arxiv.org/abs/2607.24679)
-
 
 - R. Raman, **R. Schäfer**, A. J. Kollar, A. Chandran <br>
   **--- shared first authorship**  
