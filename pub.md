@@ -27,7 +27,7 @@ A full PDF of my publications can be found [here](assets/pub.pdf).
 
 ### 2026
 
-- A. Sanders, G. Naik, J. Hallén, R. Schäfer <br>
+- A. Sanders, G. Naik, J. Hallén, **R. Schäfer** <br>
   *Defect Poisoning of Quantum Spin Ice*  
   [arXiv:2609.28643 (2026)](https://arxiv.org/abs/2609.28643)
 
