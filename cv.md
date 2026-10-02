@@ -9,7 +9,7 @@ Here is a brief overview of my academic background. For the full PDF version, cl
 
 I am currently a Postdoc in the [Norman Yao's lab](https://yao.physics.harvard.edu/) at [Harvard University](https://www.physics.harvard.edu/). Previously, I was employed at the [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) and [Boston University](https://www.bu.edu/). My research encompasses a broad range of topics, including dissipative systems, topological order, and various aspects of frustration.
 
-I hold Master’s degrees in physics and mathematics from [TU Dortmund University](https://www.tu-dortmund.de/) and completed my PhD at the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/) in Dresden, under the supervision of [David Luitz](https://dluitz.github.io/) and [Roderich Moessner](https://www.pks.mpg.de/moessner). My dissertation, **Magnetic Frustration in Three Dimensions**, is available [here](https://tud.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Ftud.qucosa.de%2Fapi%2Fqucosa%253A82937%2Fmets).
+I hold Master’s degrees in physics and mathematics from [TU Dortmund University](https://www.tu-dortmund.de/) and completed my PhD at the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de/) in Dresden, under the supervision of [David Luitz](https://dluitz.github.io/) and [Roderich Moessner](https://www.pks.mpg.de/moessner). 
 
 ### Research Interests
 
