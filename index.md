@@ -1,30 +1,41 @@
 ---
-layout: home
+layout: refined-home
 ---
 
-<script type="text/javascript"
-  id="MathJax-script"
-  async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+<header class="refined-header">
+  <a class="refined-site-name" href="{{ '/' | relative_url }}">Robin Schaefer</a>
+  <nav class="refined-nav" aria-label="Primary navigation">
+    <a href="{{ '/cv/' | relative_url }}">CV</a>
+    <a href="{{ '/pub/' | relative_url }}">Publications</a>
+  </nav>
+</header>
 
+<main class="refined-main">
+  <section class="refined-profile">
+    <img class="refined-portrait" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Robin Schaefer" />
+    <div>
+      <section class="refined-intro">
+        <h1>Robin Schaefer</h1>
+        <p class="refined-role">Computational Physicist</p>
+        <p>Hi, I’m Robin Schaefer, a condensed matter theorist currently working in <a href="https://yao.physics.harvard.edu/">Norman Yao’s lab</a> at <a href="https://www.physics.harvard.edu/">Harvard University</a>.</p>
+        <p>My focus lies on frustrated magnetism, non-equilibrium dynamics, and chaos. With a strong computational background, much of my work centers on developing, advancing, and applying numerical methods to answer questions in quantum many-body physics. Many of these efforts are closely tied to experimental investigations—for example, the search for quantum spin ice behavior in dipolar-octupolar pyrochlores.</p>
+      </section>
 
+      <section class="refined-software">
+        <h2>DanceQ</h2>
+        <p>My computational efforts have resulted in the development of <a href="https://gitlab.com/DanceQ/danceq">DanceQ</a>, a high-performance C++ library for exact diagonalization of Hamiltonian and Lindbladian systems. It is designed for scalability using OpenMP and MPI.</p>
+        <p><a href="https://gitlab.com/DanceQ/danceq">Source code</a> · <a href="https://danceq.gitlab.io/danceq/index.html">Documentation</a></p>
+      </section>
+    </div>
+  </section>
 
-<div style="text-align: center;">
-  <img src="assets/images/profile.jpg" alt="Description" style="width: 300px;" />
-</div>
+  <p class="refined-page-links">
+    <a href="{{ '/cv/' | relative_url }}">Curriculum vitae</a>
+    <a href="{{ '/pub/' | relative_url }}">Publications</a>
+  </p>
+</main>
 
-<br>
-
-Hi, I’m **Robin Schaefer**, a condensed matter theorist currently working in the [Norman Yao's lab](https://yao.physics.harvard.edu/) at [Harvard University](https://www.physics.harvard.edu/). My focus lies on frustrated magnetism, non-equilibrium dynamics, and chaos. With a strong computational background, much of my work centers on developing, advancing, and applying cutting-edge numerical methods to address a broad range of questions in quantum many-body physics. Many of these efforts are closely tied to experimental investigations—for example, the search for quantum spin ice behavior in dipolar-octupolar pyrochlores.
-
-
-My computational efforts have resulted in the development of **DanceQ**, a high-performance C++ library for exact diagonalization of Hamiltonian and Lindbladian systems. It is designed for scalability using OpenMP and MPI. The code and a detailed documentation is available [here](https://gitlab.com/DanceQ/danceq) and [here](https://danceq.gitlab.io/danceq/index.html).
-
-
-➡️ [CV](cv)
-
-➡️ [Publications](pub)
-
-<!-- ➡️ [News](news) -->
-
+<footer class="refined-footer">
+  <span>Robin Schaefer</span>
+  <a href="mailto:robin_schaefer@fas.harvard.edu">robin_schaefer@fas.harvard.edu</a>
+</footer>
