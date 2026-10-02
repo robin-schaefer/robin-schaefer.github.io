@@ -4,6 +4,7 @@
   --accent: #7d2d31;
   --line: #e6e3de;
   --paper: #fffefd;
+  --site-font: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -15,7 +16,7 @@ body {
   padding: 0 34px;
   color: var(--ink);
   background: var(--paper);
-  font: 400 16px/1.75 "Source Serif 4", Georgia, serif;
+  font: 400 16px/1.75 var(--site-font);
 }
 
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
@@ -26,7 +27,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
   justify-content: space-between;
   height: 78px;
   border-bottom: 1px solid var(--line);
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: var(--site-font);
 }
 
 .refined-site-name { color: var(--ink); font-size: 15px; font-weight: 600; letter-spacing: -.025em; text-decoration: none; }
@@ -42,7 +43,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 .refined-intro h1, .refined-software h2 {
   margin: 0;
   color: var(--ink);
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: var(--site-font);
   font-weight: 500;
   letter-spacing: -.04em;
 }
@@ -51,7 +52,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 .refined-role {
   margin: 7px 0 28px;
   color: var(--muted);
-  font: 400 12px/1.4 "Work Sans", Arial, sans-serif;
+  font: 400 12px/1.4 var(--site-font);
   letter-spacing: .04em;
   text-transform: uppercase;
 }
@@ -66,7 +67,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
   justify-content: center;
   gap: 23px;
   margin: 45px 0 0;
-  font: 500 13px/1.4 "Work Sans", Arial, sans-serif;
+  font: 500 13px/1.4 var(--site-font);
 }
 
 .refined-page-links a { text-decoration: none; }
@@ -78,7 +79,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
   padding: 23px 0 34px;
   border-top: 1px solid var(--line);
   color: var(--muted);
-  font: 400 11px/1.4 "Work Sans", Arial, sans-serif;
+  font: 400 11px/1.4 var(--site-font);
 }
 
 .refined-footer a { color: var(--muted); }
@@ -90,7 +91,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 .refined-page-content h2,
 .refined-page-content h3 {
   color: var(--ink);
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: var(--site-font);
   font-weight: 500;
   letter-spacing: -.04em;
 }
