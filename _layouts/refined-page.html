@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ '/assets/css/refined-home.css' | relative_url }}" />
+    {% seo %}
+  </head>
+  <body>
+    <header class="refined-header">
+      <a class="refined-site-name" href="{{ '/' | relative_url }}">Robin Schaefer</a>
+      <nav class="refined-nav" aria-label="Primary navigation">
+        <a{% if page.url == '/cv/' %} class="is-active" aria-current="page"{% endif %} href="{{ '/cv/' | relative_url }}">CV</a>
+        <a{% if page.url == '/pub/' %} class="is-active" aria-current="page"{% endif %} href="{{ '/pub/' | relative_url }}">Publications</a>
+      </nav>
+    </header>
+
+    <main class="refined-page">
+      <article class="refined-page-content">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="refined-footer">
+      <span>Robin Schaefer</span>
+      <a href="mailto:robin_schaefer@fas.harvard.edu">robin_schaefer@fas.harvard.edu</a>
+    </footer>
+  </body>
+</html>
