@@ -18,7 +18,7 @@ layout: refined-home
         <h1>Robin Schaefer</h1>
         <p class="refined-role">Computational Physicist</p>
         <p>Hi, I’m Robin Schaefer, a condensed matter theorist currently working in <a href="https://yao.physics.harvard.edu/">Norman Yao’s lab</a> at <a href="https://www.physics.harvard.edu/">Harvard University</a>.</p>
-        <p>My focus lies on frustrated magnetism, non-equilibrium dynamics, and chaos. In my research I develop numerical methods for quantum many-body systems and that I use to connect theory with experiment such as the search for quantum spin ice in dipolar-octupolar pyrochlores.</p>
+        <p>My research focuses on frustrated magnetism, nonequilibrium dynamics, and chaos. I develop numerical methods for quantum many-body systems and use them to connect theory with experiment. One example is the search for quantum spin ice in dipolar-octupolar pyrochlores.</p>
       </section>
 
       <section class="refined-software">
