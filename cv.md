@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: refined-page
 title: CV
 permalink: /cv/
 ---
 
-Here is a brief overview of my academic background. For the full PDF version, click [here](assets/cv.pdf).
+Here is a brief overview of my academic background. For the full PDF version, click [here]({{ '/assets/cv.pdf' | relative_url }}).
 
 
 I am currently a Postdoc in the [Norman Yao's lab](https://yao.physics.harvard.edu/) at [Harvard University](https://www.physics.harvard.edu/). Previously, I was employed at the [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) in the [Department Theory of Novel Quantum Materials](https://www.helmholtz-berlin.de/forschung/oe/qm/theorie-quantenmaterialien/index_en.html), led by [Johannes Reuther](https://www.helmholtz-berlin.de/pubbin/vkart.pl?v=xzuku) and [Boston University](https://www.bu.edu/), where I was collaborating with [Anatoli Polkovnikov](https://www.bu.edu/eng/profile/anatoli-polkovnikov/), [Claudio Chamon](https://www.bu.edu/eng/profile/claudio-chamon/), [Chris Laumann](https://www.bu.edu/physics/profile/christopher-laumann/), and [Anushya Chandra](https://www.bu.edu/physics/profile/anushya-chandran/). My research encompasses a broad range of topics, including dissipative systems, topological order, and various aspects of frustration.
@@ -36,4 +36,3 @@ I hold Master’s degrees in physics and mathematics from [TU Dortmund Universit
 - *Scholarship* funded by the [German Academic Exchange Service (DAAD)](https://www.daad.de/en/) for the student exchange at [KAIST](https://www.kaist.ac.kr/en/) (2016)
 - *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2015)
 - *Scholarship* funded by the German government and the Alumni club [*PeP et al. e.V.*](https://pep-dortmund.org/) (2014)
-

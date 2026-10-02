@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: refined-page
 title: Publications
 permalink: /pub/
 ---
@@ -11,7 +11,7 @@ permalink: /pub/
 </script>
 
 
-A full PDF of my publications can be found [here](assets/pub.pdf).
+A full PDF of my publications can be found [here]({{ '/assets/pub.pdf' | relative_url }}).
 
 
 - [arXiv](https://arxiv.org/a/0000-0001-9728-2371.html)
