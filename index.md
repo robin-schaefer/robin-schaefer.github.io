@@ -26,6 +26,12 @@ layout: refined-home
         <p>My computational efforts have resulted in the development of <a href="https://gitlab.com/DanceQ/danceq">DanceQ</a>, a high-performance C++ library for exact diagonalization of Hamiltonian and Lindbladian systems. It is designed for scalability using OpenMP and MPI.</p>
         <p><a href="https://gitlab.com/DanceQ/danceq">Source code</a> · <a href="https://danceq.gitlab.io/danceq/index.html">Documentation</a></p>
       </section>
+
+      <section class="refined-software">
+        <h2>PyGFMC</h2>
+        <p><a href="https://github.com/robin-schaefer/PyGFMC">PyGFMC</a> is a JAX-based Green's function Monte Carlo code for ground states of sign-problem-free quantum lattice models. It runs on GPUs with nearly three orders of magnitude higher throughput than on CPUs, and scales across multiple GPUs. It gives access to diagonal and off-diagonal observables and accepts arbitrary variational wavefunctions as guides, including neural quantum states.</p>
+        <p><a href="https://github.com/robin-schaefer/PyGFMC">Source code</a> · <a href="https://robin-schaefer.github.io/PyGFMC/">Documentation</a></p>
+      </section>
     </div>
   </section>
 
