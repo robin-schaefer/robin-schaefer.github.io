@@ -29,7 +29,7 @@ layout: refined-home
 
       <section class="refined-software">
         <h2>PyGFMC</h2>
-        <p>I also develop <a href="https://github.com/robin-schaefer/PyGFMC">PyGFMC</a>, a <a href="https://github.com/jax-ml/jax">JAX</a>-based Green’s function Monte Carlo code for ground states of sign-problem-free quantum lattice models. Running on GPUs, it reaches nearly <strong>three orders of magnitude</strong> higher throughput than on CPUs and scales across multiple GPUs. It accepts arbitrary variational wavefunctions as guides, including neural quantum states that can be trained with <a href="https://www.netket.org">NetKet</a>.</p>
+        <p>I also develop <a href="https://github.com/robin-schaefer/PyGFMC">PyGFMC</a>, a <a href="https://github.com/jax-ml/jax">JAX</a>-based Green’s function Monte Carlo code for sign-problem-free quantum lattice models. On GPUs it reaches nearly <strong>three orders of magnitude</strong> higher throughput than on CPUs. It is compatible with <a href="https://www.netket.org">NetKet</a>, enabling arbitrary neural quantum states as guides.</p>
         <p><a href="https://github.com/robin-schaefer/PyGFMC">Source code</a> · <a href="https://robin-schaefer.github.io/PyGFMC/">Documentation</a></p>
       </section>
     </div>
