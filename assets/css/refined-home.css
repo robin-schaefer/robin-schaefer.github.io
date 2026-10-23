@@ -24,7 +24,7 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 .refined-header {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
   gap: 32px;
   height: 78px;
   border-bottom: 1px solid var(--line);
@@ -142,3 +142,5 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 }
 .refined-social a:hover .refined-icon { background: var(--accent); transform: scale(1.2); }
 .refined-social-left { justify-content: flex-start; margin: 0 0 30px; }
+
+.refined-social-footer { display: flex; align-items: center; gap: 18px; margin: 0; }
