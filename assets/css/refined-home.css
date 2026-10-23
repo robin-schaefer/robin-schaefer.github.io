@@ -24,14 +24,15 @@ a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset:
 .refined-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 32px;
   height: 78px;
   border-bottom: 1px solid var(--line);
   font-family: var(--site-font);
 }
 
 .refined-site-name { color: var(--ink); font-size: 15px; font-weight: 600; letter-spacing: -.025em; text-decoration: none; }
-.refined-nav { display: flex; gap: 24px; }
+.refined-nav { display: flex; gap: 20px; }
 .refined-nav a { color: var(--muted); font-size: 13px; text-decoration: none; }
 .refined-nav a:hover, .refined-nav a.is-active { color: var(--accent); }
 
