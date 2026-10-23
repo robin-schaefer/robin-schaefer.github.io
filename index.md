@@ -12,7 +12,16 @@ layout: refined-home
 
 <main class="refined-main">
   <section class="refined-profile">
-    <img class="refined-portrait" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Robin Schaefer" />
+    <div class="refined-side">
+      <img class="refined-portrait" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Robin Schaefer" />
+      <p class="refined-social">
+      <a href="https://arxiv.org/a/0000-0001-9728-2371.html" aria-label="arXiv" title="arXiv"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/arxiv.svg' | relative_url }}')"></span></a>
+      <a href="https://scholar.google.de/citations?user=NX7j0dsAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/googlescholar.svg' | relative_url }}')"></span></a>
+      <a href="https://github.com/robin-schaefer" aria-label="GitHub" title="GitHub"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/github.svg' | relative_url }}')"></span></a>
+      <a href="https://www.linkedin.com/in/TODO" aria-label="LinkedIn" title="LinkedIn"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/linkedin.svg' | relative_url }}')"></span></a>
+      <a href="https://orcid.org/0000-0001-9728-2371" aria-label="ORCID" title="ORCID"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/orcid.svg' | relative_url }}')"></span></a>
+      </p>
+    </div>
     <div>
       <section class="refined-intro">
         <h1>Robin Schaefer</h1>
