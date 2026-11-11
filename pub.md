@@ -31,11 +31,11 @@ permalink: /pub/
   Submitted to SciPost Phys. Codebases  
   [PyGFMC repository](https://github.com/robin-schaefer/PyGFMC) and [PyGFMC documentation](https://robin-schaefer.github.io/PyGFMC/)
 
-- A. Jose Palliyan, …, **R. Schäfer**, A. Maljuk, B. Lake  <br>
+- A. Jose Palliyan, ..., **R. Schäfer**, A. Maljuk, B. Lake  <br>
   *Crystal growth and study of the spin-ring quantum antiferromagnet Cu\\(_3\\)WO\\(_6\\)*  
   Submitted to Crystal Growth & Design
 
-- T. Müller, …, **R. Schäfer**, G. Yücesan  <br>
+- T. Müller, ..., **R. Schäfer**, G. Yücesan  <br>
   *Leveraging rod-shaped phosphonate frameworks to create a rare S = ½ antiferromagnetic sawtooth chain magnetic topology*  
   Submitted to Advanced Materials
 
