@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Here is a brief overview of my academic background. For the full PDF version, click [here]({{ '/assets/cv.pdf' | relative_url }}).
+Here is a brief overview of my academic background. For the full PDF version, click [here]({{ '/assets/cv.pdf' | relative_url }}). A short [resume]({{ '/assets/resume.pdf' | relative_url }}) is also available.
 
 
 I am currently a Postdoc in the [Norman Yao's lab](https://yao.physics.harvard.edu/) at [Harvard University](https://www.physics.harvard.edu/). Previously, I was employed at the [Helmholtz-Zentrum Berlin](https://www.helmholtz-berlin.de/) and [Boston University](https://www.bu.edu/). My research encompasses a broad range of topics, including dissipative systems, topological order, and various aspects of frustration.

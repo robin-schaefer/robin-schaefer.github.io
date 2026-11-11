@@ -11,9 +11,6 @@ permalink: /pub/
 </script>
 
 
-A full PDF of my publications can be found [here]({{ '/assets/pub.pdf' | relative_url }}).
-
-
 <p class="refined-social refined-social-left">
   <a href="https://arxiv.org/a/0000-0001-9728-2371.html" aria-label="arXiv" title="arXiv"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/arxiv.svg' | relative_url }}')"></span></a>
   <a href="https://scholar.google.de/citations?user=NX7j0dsAAAAJ&hl=en" aria-label="Google Scholar" title="Google Scholar"><span class="refined-icon" style="--icon: url('{{ '/assets/logo/googlescholar.svg' | relative_url }}')"></span></a>
