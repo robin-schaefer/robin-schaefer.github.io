@@ -29,6 +29,19 @@ A full PDF of my publications can be found [here]({{ '/assets/pub.pdf' | relativ
 
 ### 2026
 
+- **R. Schäfer**  <br>
+  *PyGFMC: GPU-accelerated Green’s Function Monte Carlo*  
+  Submitted to SciPost Phys. Codebases  
+  [PyGFMC repository](https://github.com/robin-schaefer/PyGFMC) and [PyGFMC documentation](https://robin-schaefer.github.io/PyGFMC/)
+
+- A. Jose Palliyan, …, **R. Schäfer**, A. Maljuk, B. Lake  <br>
+  *Crystal growth and study of the spin-ring quantum antiferromagnet Cu\\(_3\\)WO\\(_6\\)*  
+  Submitted to Crystal Growth & Design
+
+- T. Müller, …, **R. Schäfer**, G. Yücesan  <br>
+  *Leveraging rod-shaped phosphonate frameworks to create a rare S = ½ antiferromagnetic sawtooth chain magnetic topology*  
+  Submitted to Advanced Materials
+
 - A. Sanders, G. Naik, J. Hallén, **R. Schäfer** <br>
   *Defect Poisoning of Quantum Spin Ice*  
   [arXiv:2609.28643 (2026)](https://arxiv.org/abs/2609.28643)
