@@ -26,6 +26,10 @@ permalink: /pub/
 
 ### 2026
 
+- B. Yuan, M. Powell, X. Liu, J. Ni, E. Smith, **R. Schäfer** et al.  <br>
+  *Magnetic diffuse scattering study of the dipolar-octupolar pyrochlore Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*  
+  [Phys. Rev. B 114, 154419 (2026)](https://journals.aps.org/prb/abstract/10.1103/zz5z-gzzt) --- **Editor's Suggestion**
+
 - **R. Schäfer**  <br>
   *PyGFMC: GPU-accelerated Green’s Function Monte Carlo*  
   Submitted to SciPost Phys. Codebases  
@@ -55,10 +59,6 @@ permalink: /pub/
 - E. M. Smith, M. S. Powell, **R. Schäfer** et al. <br>
   *Zero-Field Long Range Order at T ~ 40 mK in the Proximate Quantum Spin Ice Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\) and Phase Diagram for Magnetic Fields Along [1,1,0]*  
   [arXiv:2607.12274 (2026)](https://arxiv.org/abs/2607.12274)
-
-- B. Yuan, M. Powell, X. Liu, J. Ni, E. M. Smith, **R. Schäfer** et al.  <br>
-  *Observation of Dipolar Spin-ice-like Correlations in the Quantum Spin Ice Candidate Ce\\(_2\\)Sn\\(_2\\)O\\(_7\\)*  
-  [arXiv:2601.20766 (2026)](https://arxiv.org/abs/2601.20766)
 
 - **R. Schäfer**, C. Chamon, C. R. Laumann  <br>
   *Hall-on-Toric: Descendant Laughlin state in the chiral \\(\mathbb{Z}_p\\) toric code*  
